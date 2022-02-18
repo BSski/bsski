@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![codewars stats](https://www.codewars.com/users/bsski/badges/small)
+![codewars stats](https://www.codewars.com/users/bsski/badges/small)<br>
 ![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/bsski.png)
