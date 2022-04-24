@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bsski&label=Profile%20views&color=2fab18&style=flat" alt="bsski" /> </p>
 
-<contact.bsski@gmail.com>
+Email: <contact.bsski@gmail.com>
