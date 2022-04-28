@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-🌱 I’m currently learning backend web development, aspiring to become a Junior Python Backend Dev.
+🌱 Currently learning backend web development. Aspiring to become a Junior Python Backend Dev! :slightly_smiling_face:
 
 📫 How to reach me: <contact.bsski@gmail.com>
 
