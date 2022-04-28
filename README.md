@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bsski&label=Profile%20views&color=2fab18&style=flat" alt="bsski" /> </p>
 
-Email: <contact.bsski@gmail.com>
+<hr>
+
+🌱 I’m currently learning backend web development, aspiring to become a Junior Python Backend Dev.
+
+📫 How to reach me: <contact.bsski@gmail.com>
 
 
 <hr>
