@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div style="display:inline-block;">
   
 ![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/bsski.png)
-![codewars stats](https://www.codewars.com/users/bsski/badges/small)
+           ![codewars stats](https://www.codewars.com/users/bsski/badges/small)
   
 </div>
 
