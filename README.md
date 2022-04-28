@@ -21,5 +21,7 @@ Here are some ideas to get you started:
 Email: <contact.bsski@gmail.com>
 
 
+<hr>
+
 ![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/bsski.png)
 ![codewars stats](https://www.codewars.com/users/bsski/badges/small)
