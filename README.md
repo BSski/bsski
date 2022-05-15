@@ -42,7 +42,7 @@
 </a>
 
 <br>
-:arrow_up: :sparkles: Click the badges to see what I was learning! :sparkles: :arrow_up:
+:arrow_up: :sparkles: Click the badges to see what I was learning! :sparkles: :arrow_up: &#8593;
 
 <!--
 <img src="https://komarev.com/ghpvc/?username=bsski&label=Profile%20views&color=2fab18&style=flat" alt="bsski" />
