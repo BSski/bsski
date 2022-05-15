@@ -32,16 +32,12 @@
 
 <hr>
 
-![codewars stats](https://www.codewars.com/users/bsski/badges/small)<br>
-![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/bsski.png)<br>
-
+<a href="https://tryhackme.com/p/bsski">
+  <img alt="Codewars stats" src="https://tryhackme-badges.s3.amazonaws.com/bsski.png">
+</a>
 
 <a href="https://www.codewars.com/users/bsski">
   <img alt="Codewars stats" src="https://www.codewars.com/users/bsski/badges/small">
-</a>
-
-<a href="https://tryhackme.com/p/bsski">
-  <img alt="Codewars stats" src="https://tryhackme-badges.s3.amazonaws.com/bsski.png">
 </a>
   
 Click the badges to see what I was learning!
