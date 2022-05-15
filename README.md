@@ -42,7 +42,7 @@
 </a>
 
 <br>
-&#8593; :sparkles: Click the badges to see what I was learning! :sparkles: &#8593;
+:sparkles: &#8593; Click the badges to see what I was learning! &#8593; :sparkles:
 
 <!--
 <img src="https://komarev.com/ghpvc/?username=bsski&label=Profile%20views&color=2fab18&style=flat" alt="bsski" />
