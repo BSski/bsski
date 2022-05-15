@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="django" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
+  </a><br>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 📫 Reach me: <contact.bsski@gmail.com>
 
 <hr>
-
-![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/bsski.png)![codewars stats](https://www.codewars.com/users/bsski/badges/small)<br>
+![codewars stats](https://www.codewars.com/users/bsski/badges/small)<br>
+![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/bsski.png)<br>
 <img src="https://komarev.com/ghpvc/?username=bsski&label=Profile%20views&color=2fab18&style=flat" alt="bsski" />
