@@ -38,7 +38,7 @@
 
 
 <a href="https://www.codewars.com/users/bsski">
-  <img alt="Codewars stats" src="https://www.codewars.com/users/bsski/badges/small">
+  <img align="top" alt="Codewars stats" src="https://www.codewars.com/users/bsski/badges/small">
 </a>
 
 
