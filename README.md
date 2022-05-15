@@ -34,10 +34,14 @@
 
 ![codewars stats](https://www.codewars.com/users/bsski/badges/small)<br>
 ![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/bsski.png)<br>
+
+
+<a href="https://www.codewars.com/users/bsski">
+<img alt="Codewars stats" src="https://www.codewars.com/users/bsski/badges/small">
+
+<a href="https://tryhackme.com/p/bsski">
+<img alt="Codewars stats" src="https://tryhackme-badges.s3.amazonaws.com/bsski.png">
+
 <img src="https://komarev.com/ghpvc/?username=bsski&label=Profile%20views&color=2fab18&style=flat" alt="bsski" />
 
 
-<a href="default.asp"><img src="https://www.codewars.com/users/bsski/badges/small" alt="Codewars stats"></a>
-
-<a href="https://www.codewars.com/">
-<img alt="Codewars stats" src="https://www.codewars.com/users/bsski/badges/small">
