@@ -32,14 +32,29 @@
 
 <hr>
 
+<table>
+<thead>
+  <tr>
+    <td>
+      
 <a href="https://tryhackme.com/p/bsski">
   <img alt="Codewars stats" src="https://tryhackme-badges.s3.amazonaws.com/bsski.png">
 </a>
+    
+    </td>
+    <td>
 
 <a href="https://www.codewars.com/users/bsski">
   <img alt="Codewars stats" src="https://www.codewars.com/users/bsski/badges/small">
 </a>
   
+    </td>
+  </tr>
+</thead>
+</table>
+
+
+
 Click the badges to see what I was learning!
 
 
