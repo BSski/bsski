@@ -18,9 +18,9 @@
   </a>
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
-  <a href="https://semaphoreci.com/" target="_blank" rel="noreferrer"> <img src="https://scontent.fpoz2-1.fna.fbcdn.net/v/t1.6435-9/88212637_2560867070868639_6867869907095126016_n.png?_nc_cat=101&ccb=1-6&_nc_sid=09cbfe&_nc_ohc=MSZ-8r8UmsIAX_36nvy&_nc_ht=scontent.fpoz2-1.fna&oh=00_AT-NL9bHb6718yF9JW-39tkSXs2X8i7snvYQ0xKJlizLqg&oe=62A6A6CE" alt="SemaphoreCI" width="40" height="40"/>
+  <a href="https://semaphoreci.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/55Riv6j.png" alt="SemaphoreCI" width="40" height="40"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.pngfind.com/pngs/m/255-2553250_icon-docker-notext-color-docker-icon-png-transparent.png" alt="Docker" width="40" height="40"/>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/fDi24IJ.png" alt="Docker" width="40" height="40"/>
   </a>  
 </p>
 
