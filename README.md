@@ -39,5 +39,5 @@
 
 <a href="default.asp"><img src="https://www.codewars.com/users/bsski/badges/small" alt="Codewars stats"></a>
 
-<a href="https://www.codewars.com/users/bsski/badges/small">
+<a href="https://www.codewars.com/">
 <img alt="Codewars stats" src="https://www.codewars.com/users/bsski/badges/small">
