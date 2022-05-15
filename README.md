@@ -42,6 +42,5 @@ Here are some ideas to get you started:
 
 <hr>
 
-![codewars stats](https://www.codewars.com/users/bsski/badges/small)<br>
-![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/bsski.png)<br>
+![tryhackme stats](https://tryhackme-badges.s3.amazonaws.com/bsski.png)![codewars stats](https://www.codewars.com/users/bsski/badges/small)<br>
 <img src="https://komarev.com/ghpvc/?username=bsski&label=Profile%20views&color=2fab18&style=flat" alt="bsski" />
