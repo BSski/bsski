@@ -30,9 +30,13 @@
 
 <br>
 
+<br>
+
 🌱 Learning backend web development. Aspiring to become a Junior Python Backend Developer! :slightly_smiling_face:
 
 📫 Reach me: <contact.bsski@gmail.com>
+
+<br>
 
 <br>
 
