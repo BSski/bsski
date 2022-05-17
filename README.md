@@ -24,20 +24,20 @@
   </a>
 </p>
 
+
 <hr>
 
-<br>
 
 <br>
 
 🌱 Learning backend web development. Aspiring to become a Junior Python Backend Developer! :slightly_smiling_face:
 
 📫 Reach me: <contact.bsski@gmail.com>
- 
- 
+
 <br>
 
 <hr>
+
 
 <a href="https://tryhackme.com/p/bsski">
   <img alt="Codewars stats" src="https://tryhackme-badges.s3.amazonaws.com/bsski.png">
