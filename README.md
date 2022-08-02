@@ -13,7 +13,12 @@
   <a href="https://semaphoreci.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/55Riv6j.png" alt="SemaphoreCI" width="40" height="40"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/fDi24IJ.png" alt="Docker" width="40" height="40"/>
-  </a>  
+  </a>
+  </a>
+  <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer"> <img src="https://www.instana.com/media/01_INSTANA_AWSLambda-01.svg" alt="AWS Lambda" width="40" height="40"/>
+  </a>
+  <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/428px-Amazon-S3-Logo.svg.png?20220427001138" alt="AWS S3" width="40" height="40"/>
+  </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
