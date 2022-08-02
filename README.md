@@ -15,7 +15,7 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/fDi24IJ.png" alt="Docker" width="40" height="40"/>
   </a>
   </a>
-  <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer"> <img src="https://www.instana.com/media/01_INSTANA_AWSLambda-01.svg" alt="AWS Lambda" width="40" height="40"/>
+  <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" alt="AWS Lambda" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/428px-Amazon-S3-Logo.svg.png?20220427001138" alt="AWS S3" width="40" height="40"/>
   </a>
