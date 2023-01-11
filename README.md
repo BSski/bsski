@@ -33,7 +33,7 @@
 
 <br>
 
-🌱 Learning backend web development. Aspiring to become a Junior Backend Developer! :slightly_smiling_face:
+🌱 Backend Developer in Go/Python :slightly_smiling_face:
 
 📫 Reach me: <contact.bsski@gmail.com>
 
