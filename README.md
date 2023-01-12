@@ -33,7 +33,7 @@
 
 <br>
 
-🌱 Backend Developer in Go/Python :slightly_smiling_face:
+🌱 Backend Engineer in Go :slightly_smiling_face:
 
 📫 Reach me: <contact.bsski@gmail.com>
 
