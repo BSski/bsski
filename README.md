@@ -1,7 +1,7 @@
 
 <p align="left">
   
-  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgo.dev%2Fblog%2Fgo-brand%2FGo-Logo%2FSVG%2F&psig=AOvVaw26Bq_NPw0nlst-wrHUX-ay&ust=1673640949246000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLDzisTswvwCFQAAAAAdAAAAABAE" alt="go" width="40" height="40"/>
+  <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg" alt="go" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
