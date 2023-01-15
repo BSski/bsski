@@ -15,6 +15,8 @@
   </a>
   <a href="https://semaphoreci.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/55Riv6j.png" alt="SemaphoreCI" width="40" height="40"/>
   </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src=" https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/2110px-Kubernetes-icon-color.svg.png" alt="Kubernetes" width="40" height="40"/>
+  </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/fDi24IJ.png" alt="Docker" width="40" height="40"/>
   </a>
   </a>
