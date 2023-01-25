@@ -41,7 +41,7 @@
 
 <br>
 
-🌱 Backend Software Engineer in Go :slightly_smiling_face:
+🌱 Go & Python enthusiast :slightly_smiling_face:
 
 📫 Reach me: <contact.bsski@gmail.com>
 
