@@ -7,6 +7,10 @@
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="Django" width="40" height="40"/>
   </a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/512px-Kubernetes-icon-color.svg.png?20210818121315" alt="Kubernetes" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/fDi24IJ.png" alt="Docker" width="40" height="40"/>
+  </a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://symbols.getvecta.com/stencil_3/1_google-cloud-platform.6c162963fd.svg" alt="Google Cloud Platform" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
@@ -16,10 +20,6 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
   <a href="https://semaphoreci.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/55Riv6j.png" alt="SemaphoreCI" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/labs/thumb/b/ba/Kubernetes-icon-color.svg/512px-Kubernetes-icon-color.svg.png?20210818121315" alt="Kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://i.imgur.com/fDi24IJ.png" alt="Docker" width="40" height="40"/>
   </a>
   </a>
   <a href="https://aws.amazon.com/lambda/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Amazon_Lambda_architecture_logo.svg/1200px-Amazon_Lambda_architecture_logo.svg.png" alt="AWS Lambda" width="40" height="40"/>
