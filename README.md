@@ -41,13 +41,9 @@
 
 <hr>
 
-<br>
-
 Go & Python enthusiast :slightly_smiling_face:
 
 📫 Reach me: <contact.bsski@gmail.com>
-
-<br>
 
 <hr>
 
