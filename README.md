@@ -1,6 +1,6 @@
 
 <p align="left">
-  
+<!--
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" alt="Django" width="40" height="40"/>
@@ -26,7 +26,8 @@
   </a>
   <a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Amazon-S3-Logo.svg/428px-Amazon-S3-Logo.svg.png?20220427001138" alt="AWS S3" width="40" height="40"/>
   </a>
-  
+-->
+
 <!--   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
   </a> -->
   <!--   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
@@ -37,11 +38,12 @@
   </a> -->
 </p>
 
+
 <hr>
 
 <br>
 
-🌱 Python & Go enthusiast :slightly_smiling_face:
+Go & Python enthusiast :slightly_smiling_face:
 
 📫 Reach me: <contact.bsski@gmail.com>
 
