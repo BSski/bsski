@@ -41,7 +41,7 @@
 
 <hr>
 
-📫 contact.bsski at gmail.com
+📫 contact.bsski at gmail
 
 <hr>
 
