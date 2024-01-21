@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=BSski&theme=holi-theme&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&exclude_days=Sun&background=90%2C030314%2C04003BA6&sideNums=EBEAE9&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=BSski&theme=holi-theme&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=90%2C030314%2C0D1117&sideNums=EBEAE9&hide_current_streak=true)](https://git.io/streak-stats)
 
 <!--
 <hr>
