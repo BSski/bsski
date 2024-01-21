@@ -12,12 +12,12 @@
 
 <hr>
 
-<a href="https://github.com/BSski/GoSERG"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=GoSERG&theme=holi&bg_color=90,0c081a,130F40&hide_border=true" width="400" /></a>        <a href="https://github.com/BSski/django-images-api"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=django-images-api&theme=holi&bg_color=90,0c081a,130F40&hide_border=true" width="400" /></a>
+<a href="https://github.com/BSski/GoSERG"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=GoSERG&theme=holi&bg_color=90,090614,130F40&hide_border=true" width="400" /></a>        <a href="https://github.com/BSski/django-images-api"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=django-images-api&theme=holi&bg_color=90,090614,130F40&hide_border=true" width="400" /></a>
 
-<a href="https://github.com/BSski/random-ints-st-dev-api"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=random-ints-st-dev-api&theme=holi&bg_color=45,0c081a,130F40&hide_border=true" width="400" /></a>        <a href="https://github.com/BSski/HIVE"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=HIVE&theme=holi&bg_color=45,0c081a,130F40&hide_border=true" width="400" /></a>
+<a href="https://github.com/BSski/random-ints-st-dev-api"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=random-ints-st-dev-api&theme=holi&bg_color=45,090614,130F40&hide_border=true" width="400" /></a>        <a href="https://github.com/BSski/HIVE"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=HIVE&theme=holi&bg_color=45,090614,130F40&hide_border=true" width="400" /></a>
 
 
-<a href="https://github.com/BSski/books-api"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=books-api&theme=holi&bg_color=45,130F40,0c081a&hide_border=true" width="400" /></a>        <a href="https://github.com/BSski/discord-reminder-bot"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=discord-reminder-bot&theme=holi&bg_color=45,130F40,0c081a&hide_border=true" width="400" /></a>
+<a href="https://github.com/BSski/books-api"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=books-api&theme=holi&bg_color=135,130F40,090614&hide_border=true" width="400" /></a>        <a href="https://github.com/BSski/discord-reminder-bot"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=discord-reminder-bot&theme=holi&bg_color=135,130F40,090614&hide_border=true" width="400" /></a>
 
 <!--
 <hr>
