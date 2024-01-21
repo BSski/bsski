@@ -1,4 +1,4 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BSski&show_icons=true&show=reviews,prs_merged&include_all_commits=true&rank_icon=github&hide=stars,issues&theme=holi&bg_color=0D1117&hide_border=true" />
 </a>
 
@@ -6,9 +6,31 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSski&layout=donut&theme=holi&bg_color=0D1117&border_radius=7&border_color=222D3C&hide=html&hide_border=true" />
-</a><a href="https://git.io/streak-stats">
+</a>
+
+<a href="https://git.io/streak-stats">
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=BSski&theme=holi-theme&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=419&background=0D1117&border=222D3C&stroke=222D3C&hide_current_streak=true&hide_border=true" />
 </a>
+-->
+
+<table>
+  <tr>
+    <td>
+      <p>
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BSski&show_icons=true&show=reviews,prs_merged&include_all_commits=true&rank_icon=github&hide=stars,issues&theme=holi&bg_color=0D1117&hide_border=true" />
+        <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSski&layout=donut&theme=holi&bg_color=0D1117&border_radius=7&border_color=222D3C&hide=html&hide_border=true" />
+        <img height=200 align="center" src="https://streak-stats.demolab.com?user=BSski&theme=holi-theme&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=419&background=0D1117&border=222D3C&stroke=222D3C&hide_current_streak=true&hide_border=true" />
+      </p>
+    </td>
+    <td>
+      <p>
+        <!-- You can add more content here -->
+      </p>
+    </td>
+  </tr>
+</table>
+
+
 
 <hr>
 
