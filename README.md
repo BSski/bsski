@@ -2,11 +2,11 @@
 
 <br> 
 
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSski&layout=donut&theme=holi&bg_color=0D1117&border_radius=7&border_color=222D3C&hide=html&hide_border=true" />
+  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSski&layout=donut&theme=holi&bg_color=0D1117&border_radius=7&border_color=222D3C&hide=html&hide_border=true" />
 
 
 
-  <img height=200 align="right" src="https://streak-stats.demolab.com?user=BSski&theme=holi-theme&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=419&background=0D1117&border=222D3C&stroke=222D3C&hide_current_streak=true&hide_border=true" />
+  <img height=200 align="center" src="https://streak-stats.demolab.com?user=BSski&theme=holi-theme&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=419&background=0D1117&border=222D3C&stroke=222D3C&hide_current_streak=true&hide_border=true" />
 
 
 <hr>
