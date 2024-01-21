@@ -6,7 +6,7 @@
 
 
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=GoSERG&theme=holi&bg_color=45,000000,130F40&hide_border=true)
+[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=GoSERG&theme=holi&bg_color=45,000000,130F40&hide_border=true)](https://github.com/BSski/GoSERG)
 
 
 <!--
