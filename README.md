@@ -10,27 +10,44 @@
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=BSski&theme=holi-theme&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=419&background=0D1117&border=222D3C&stroke=222D3C&hide_current_streak=true" />
 </a>
 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=BSski&theme=holi-theme&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=419&background=0D1117&border=222D3C&stroke=222D3C&hide_current_streak=true)](https://git.io/streak-stats)
-
-
-
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=GoSERG&theme=holi&bg_color=45,000000,130F40&hide_border=true)](https://github.com/BSski/GoSERG)
-
-
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=discord-reminder-bot&theme=holi&bg_color=45,000000,130F40&hide_border=true)](https://github.com/BSski/discord-reminder-bot)
-
-
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=random-ints-st-dev-api&theme=holi&bg_color=45,000000,130F40&hide_border=true)](https://github.com/BSski/random-ints-st-dev-api)
-
-
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=django-images-api&theme=holi&bg_color=45,000000,130F40&hide_border=true)](https://github.com/BSski/django-images-api)
-
-
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=books-api&theme=holi&bg_color=45,000000,130F40&hide_border=true)](https://github.com/BSski/books-api)
-
-
-[![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=HIVE&theme=holi&bg_color=45,000000,130F40&hide_border=true)](https://github.com/BSski/HIVE)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/BSski/GoSERG">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=GoSERG&theme=holi&bg_color=45,000000,130F40&hide_border=true" alt="Customized Card">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/BSski/discord-reminder-bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=discord-reminder-bot&theme=holi&bg_color=45,000000,130F40&hide_border=true" alt="Customized Card">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/BSski/random-ints-st-dev-api">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=random-ints-st-dev-api&theme=holi&bg_color=45,000000,130F40&hide_border=true" alt="Customized Card">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/BSski/django-images-api">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=django-images-api&theme=holi&bg_color=45,000000,130F40&hide_border=true" alt="Customized Card">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/BSski/books-api">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=books-api&theme=holi&bg_color=45,000000,130F40&hide_border=true" alt="Customized Card">
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/BSski/HIVE">
+        <img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=HIVE&theme=holi&bg_color=45,000000,130F40&hide_border=true" alt="Customized Card">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!--
 <hr>
