@@ -1,4 +1,4 @@
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BSski&show_icons=true&show=reviews,prs_merged&include_all_commits=true&rank_icon=github&hide=stars,issues&theme=holi&bg_color=0D1117&border_color=222D3C&border_radius=5)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=BSski&show_icons=true&show=reviews,prs_merged&include_all_commits=true&rank_icon=github&hide=stars,issues&theme=holi&bg_color=0D1117&border_color=222D3C&border_radius=5&hide_progress=true)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BSski&theme=holi-theme&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=419&background=0D1117&border=222D3C&stroke=222D3C&hide_current_streak=true)](https://git.io/streak-stats)
 
