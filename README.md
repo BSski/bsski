@@ -10,6 +10,7 @@
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=BSski&theme=holi-theme&border_radius=5&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&card_width=419&background=0D1117&border=222D3C&stroke=222D3C&hide_current_streak=true" />
 </a>
 
+<hr>
 
 <a href="https://github.com/BSski/GoSERG"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=GoSERG&theme=holi&bg_color=45,000000,130F40&hide_border=true" width="400" /></a>        <a href="https://github.com/BSski/django-images-api"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=django-images-api&theme=holi&bg_color=45,000000,130F40&hide_border=true" width="400" /></a>
 
