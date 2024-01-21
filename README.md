@@ -12,7 +12,7 @@
 
 <hr>
 
-<a href="https://github.com/BSski/GoSERG"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=GoSERG&theme=holi&bg_color=45,000000,051c30,051c30&border_radius=7&border_color=05000f" width="400" /></a>        <a href="https://github.com/BSski/django-images-api"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=django-images-api&theme=holi&bg_color=-45,000000,000000,051c30&border_radius=7&border_color=05000f" width="400" /></a>
+<a href="https://github.com/BSski/GoSERG"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=GoSERG&theme=holi&bg_color=45,000000,051c30,051c30&border_radius=7&border_color=05000f" width="400" /></a>        <a href="https://github.com/BSski/django-images-api"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=django-images-api&theme=holi&bg_color=75,000000,000000,051c30&border_radius=7&border_color=05000f" width="400" /></a>
 
 <a href="https://github.com/BSski/random-ints-st-dev-api"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=random-ints-st-dev-api&theme=holi&bg_color=0,000000,051c30,051c30&border_radius=7&border_color=05000f" width="400" /></a>        <a href="https://github.com/BSski/HIVE"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=HIVE&theme=holi&bg_color=0,051c30,051c30,000000&border_radius=7&border_color=05000f" width="400" /></a>
 
