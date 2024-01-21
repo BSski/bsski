@@ -7,11 +7,7 @@
 <hr>
 
 <a href="https://github.com/BSski/GoSERG"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=GoSERG&theme=holi&bg_color=45,000000,010910&border_radius=7&border_color=05000f" width="400" /></a>      <a href="https://github.com/BSski/django-images-api"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=django-images-api&theme=holi&bg_color=-45,010910,000000,000000&border_radius=7&border_color=05000f" width="400" /></a>
-
-<!--
 <a href="https://github.com/BSski/random-ints-st-dev-api"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=random-ints-st-dev-api&theme=holi&bg_color=0,000000,010910,010910&border_radius=7&border_color=05000f" width="400" /></a>      <a href="https://github.com/BSski/HIVE"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=HIVE&theme=holi&bg_color=0,010910,010910,000000&border_radius=7&border_color=05000f" width="400" /></a>
--->
-
 <a href="https://github.com/BSski/books-api"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=books-api&theme=holi&bg_color=-45,000000,010910&border_radius=7&border_color=05000f" width="400" /></a>      <a href="https://github.com/BSski/discord-reminder-bot"><img src="https://github-readme-stats.vercel.app/api/pin?username=BSski&repo=discord-reminder-bot&theme=holi&bg_color=45,010910,000000&border_radius=7&border_color=05000f" width="400" /></a>
 
 <!--
